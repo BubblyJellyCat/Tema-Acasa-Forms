@@ -44,7 +44,6 @@ namespace Tema6Forms
                 nrIntreb = 0;
                 scor = 0;
             }
-
             nrIntreb++;
             VerificareRaspunsCorect(nrIntreb);
         }

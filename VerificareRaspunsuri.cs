@@ -18,7 +18,6 @@ namespace Joc
         {
             scor = 0;
         }
-
         public bool VerifRaspuns(string raspCorect, string raspuns)
         {
             if (raspuns.ToLower() == raspCorect)
